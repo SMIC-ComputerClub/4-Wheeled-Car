@@ -3,7 +3,8 @@ A 4 Wheeled Car made using Arduino
 
 ##Members
 Matthew, Danny, Kailas, Michael
-#What we know
+
+##What we know
 Nothing :p
 
 ##What we will be doing
