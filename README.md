@@ -24,4 +24,7 @@ We will be creating a 4 wheeled vehicle using Arduino. This is a very entry proj
 
 ##Week 1 & 2
 -All members of the group have downloaded a copy of the Arduino software
+
 -Materials are being chosen and ordered off Taobao
+
+-Learned how to control blinking LED using Arduino
