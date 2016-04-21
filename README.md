@@ -12,14 +12,20 @@ We will be creating a 4 wheeled vehicle using Arduino. This is a very entry proj
 
 ##Materials
 -Arduino
+
 -Chassis
+
 -Motors
+
 -Battery
+
 -Wheels
--Other things (not determined, maybe Tacos)
+
+-Other things
 
 ##What we will learn
 -Arduino (lol)
+
 -Mechanical engineering of a car
 
 ##Week 1 & 2
