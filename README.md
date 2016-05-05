@@ -34,3 +34,8 @@ We will be creating a 4 wheeled vehicle using Arduino. This is a very entry proj
 -Materials are being chosen and ordered off Taobao
 
 -Learned how to control blinking LED using Arduino
+
+##Week 3 & 4
+-All Arduino parts have arrived
+
+-Beginning to experiment with more complex aspects of Arduino
